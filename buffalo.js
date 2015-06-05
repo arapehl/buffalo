@@ -12,13 +12,13 @@ function buffalo(BUFFALO, Buffalo) {
     buffalo [++ buffalo. BUFFALO ]=
     BUFFALO - BUFFALO ): Buffalo
     ==' '|'\015'== Buffalo ||
-    (Buffalo   )== "c" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "h" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "i" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "c" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "k" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "e" &  buffalo. Buffalo [buffalo.
-    $Buffalo++ ]== "n"&&++buffalo. buffalo [buffalo.
+    (Buffalo   )== "b" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "u" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "f" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "f" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "a" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "l" &  buffalo. Buffalo [buffalo.
+    $Buffalo++ ]== "o"&&++buffalo. buffalo [buffalo.
     BUFFALO]? buffalo (BUFFALO)
     :[ "Error on line "+BUFFALO+": expected 'buffalo'",
        buffalo. BUFFALO = BUFFALO ++- BUFFALO ]:
